@@ -15,3 +15,31 @@
 ## Phase 3
 1. Add User Auth
 2. History
+
+
+# create project - py
+```cmd
+## create project
+mkdir menu-lens-py
+cd menu-lens-py
+
+# create env
+python -m venv .venv
+
+# for windows
+.venv\Scripts\activate
+
+# for mac/linux
+source .venv/bin/activate 
+
+# install
+create requirements.txt & add libs
+pip install -r requirements.txt
+
+# create app
+- get file
+- extract text
+- pass it to model for classification
+- get images
+```
+
