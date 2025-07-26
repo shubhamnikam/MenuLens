@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Tesseract temp files (optional)
+tesseract_output/
+
+# Packages
+*.egg-info/
