@@ -36,6 +36,14 @@ source .venv/bin/activate
 create requirements.txt & add libs
 pip install -r requirements.txt
 
+# install tessaract
+- for windows install from github repo
+
+- for linux (Ubuntu / Debian)
+sudo apt update
+sudo apt install tesseract-ocr
+sudo apt install tesseract-ocr-mar tesseract-ocr-hin
+
 # create app
 - get file
 - extract text
