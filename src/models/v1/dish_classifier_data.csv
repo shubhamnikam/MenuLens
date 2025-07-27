@@ -1,0 +1,718 @@
+text,label
+Sweet Potato Fries,dish
+Baked Potato,dish
+Inclusive,not_dish
+Table Number,not_dish
+Paneer Do Pyaza,dish
+Chicken Shashlik,dish
+Set Menu,not_dish
+Fish Tikka,dish
+No Reservation,not_dish
+Matka Biryani,dish
+Chicken Clear Soup,dish
+Rice Papad,dish
+01234,not_dish
+Hara Bhara Kebab,dish
+Dal Dhokli,dish
+Butter Milk,dish
+Chana Masala,dish
+Ghee Roast Dosa,dish
+Lamb Biryani,dish
+Soup,not_dish
+Sambar Rice,dish
+Achari Paneer,dish
+Malpua,dish
+Egg Biryani,dish
+Deluxe,not_dish
+No Change Given,not_dish
+Paneer Malai Tikka,dish
+Aam Ras,dish
+Out for Delivery,not_dish
+Veggie Sub,dish
+MRP,not_dish
+Festival Offer,not_dish
+Ladies Night,not_dish
+Egg Curry,dish
+Edit Order,not_dish
+Rewards,not_dish
+Beef Stroganoff,dish
+Paid Seats,not_dish
+Membership,not_dish
+Corn Cheese Balls,dish
+Doi Maach,dish
+Chole Bhature,dish
+Soft Drinks,not_dish
+Hot,not_dish
+Kaju Curry,dish
+Try Me,not_dish
+Spinach Cannelloni,dish
+One by Two,not_dish
+Spinach Corn Curry,dish
+Desserts,not_dish
+Vegetable Enchiladas,dish
+Mysore Pak,dish
+Egg Chilli,dish
+Tomato Rice,dish
+Veg Momos,dish
+Kheer,dish
+Palak Soup,dish
+Tuna Melt,dish
+Digital Menu,not_dish
+Outlet,not_dish
+Fish Moilee,dish
+Chicken Sizzler,dish
+Chicken Kathi Roll,dish
+Non-Veg Only,not_dish
+Dal Palak,dish
+Pumpkin Soup,dish
+Chicken Soup,dish
+Cornbread,dish
+Chingri Malai Curry,dish
+Extra Sauce,not_dish
+Paya Soup,dish
+Show More,not_dish
+Hazelnut Torte,dish
+Nethili Fry,dish
+Pineapple Rasam,dish
+Sausage Roll,dish
+Chicken Malai Tikka,dish
+Non-Veg,not_dish
+Cocktail Hour,not_dish
+Chatpata Corn,dish
+Pre-Service,not_dish
+Sweet Corn Soup,dish
+E-Coupon,not_dish
+Roasted Chicken,dish
+Sheer Kurma,dish
+--,not_dish
+Chicken Caesar Wrap,dish
+Rooftop Dining,not_dish
+Sambhar Vada,dish
+Jhalmuri,dish
+Order Confirmed,not_dish
+Pickup Slot,not_dish
+Sunday Closed,not_dish
+Nargisi Kofta,dish
+Paneer Bhurji,dish
+Paneer Frankie,dish
+Chicken Chettinad,dish
+Peanut Butter Cookie,dish
+Offer Ends,not_dish
+Methi Malai Paneer,dish
+Paneer Butter Masala,dish
+Page 2,not_dish
+No Onion No Garlic,not_dish
+Dal Tadka,dish
+No Entry,not_dish
+Thank You,not_dish
+Show Less,not_dish
+Entry Restricted,not_dish
+Prawn Masala,dish
+Welcome!,not_dish
+Lemon Tart,dish
+Best Taste,not_dish
+Kala Jamun,dish
+Chicken Lollipop,dish
+Prawn Masala,dish
+Bruschetta,dish
+Add-ons,not_dish
+Chicken Philly Sandwich,dish
+Lamb Rogan Josh,dish
+Prawn Koliwada,dish
+Salami Pizza,dish
+Parsi Sali Boti,dish
+Free WiFi,not_dish
+Takeaway Only,not_dish
+Fried Chicken,dish
+Dry Day,not_dish
+Focaccia,dish
+Bottle Water,not_dish
+Table 8,not_dish
+Chicken Shawarma,dish
+Sol Kadhi,dish
+Fruit Custard,dish
+Teriyaki Chicken,dish
+Chettinad Fish,dish
+French Toast,dish
+Veg Fried Rice,dish
+Mughlai Paratha,dish
+Rice Add-on,not_dish
+Seats Available,not_dish
+Spinach Soup,dish
+Under ₹200,not_dish
+Order Limit,not_dish
+Cottage Pie,dish
+Holiday Offer,not_dish
+Paneer Lababdar,dish
+Chocolate Croissant,dish
+Pancakes,dish
+Veg Only,not_dish
+Open Daily,not_dish
+Veg Pulao,dish
+Pumpkin Pie,dish
+Frankie Roll,dish
+Appetizers,not_dish
+Full House,not_dish
+Under Maintenance,not_dish
+Red Velvet Cupcake,dish
+Tuna Sandwich,dish
+Friend Referral,not_dish
+Pav Bhaji,dish
+Family Pack,not_dish
+Amount Payable,not_dish
+Security,not_dish
+250g,not_dish
+Spring Onion Soup,dish
+Vegetable Korma,dish
+Home Special,not_dish
+Mushroom Risotto,dish
+Service Staff,not_dish
+Lunch Buffet,not_dish
+No Service,not_dish
+Kesar Pista Kulfi,dish
+Coupon Code,not_dish
+A3,not_dish
+15% Off,not_dish
+Kofta Curry,dish
+Green Peas Curry,dish
+EMI Offer,not_dish
+Fried Squid,dish
+Kashmiri Dum Aloo,dish
+Order Online,not_dish
+Chicken Cafreal,dish
+GST 18%,not_dish
+BYOB,not_dish
+Sabudana Khichdi,dish
+Bill Counter,not_dish
+Ready to Serve,not_dish
+Mushroom Masala,dish
+Spinach Ravioli,dish
+Margherita Flatbread,dish
+Egg Benedict,dish
+Zunka Bhakri,dish
+Makki di Roti,dish
+Chicken Korma,dish
+On Request,not_dish
+Waiting List,not_dish
+Gajar Halwa,dish
+Kid Friendly,not_dish
+Egg Curry Goan,dish
+Combo Offer,not_dish
+Tandoori Roti,dish
+No Service Tax,not_dish
+Batata Vada,dish
+Mango Pickle,dish
+Closed,not_dish
+Above ₹500,not_dish
+Khar,dish
+Patal Bhaji,dish
+Zucchini Bread,dish
+In House,not_dish
+Cajun Potatoes,dish
+Tandoori Veg Platter,dish
+Sev Puri,dish
+Crab Curry,dish
+Add Gravy,not_dish
+All Major Cards,not_dish
+Malai Kofta,dish
+Mutton Keema,dish
+Sambar Idli,dish
+Change Table,not_dish
+Prawn Balchao,dish
+Dal Makhani,dish
+Egg Curry Masala,dish
+Double Ka Meetha,dish
+Qty,not_dish
+Egg Drop Soup,dish
+Take Home,not_dish
+Matka Kulfi,dish
+Happy Hours,not_dish
+Olive Tapenade,dish
+Cheesy Nachos,dish
+Masala Papad,dish
+Kosha Mangsho,dish
+Litti Chokha,dish
+Phulkopir Roast,dish
+Pesarattu,dish
+Chicken Pepperoni Pizza,dish
+Chef's Note,not_dish
+Veg Cutlet,dish
+Falafel Wrap,dish
+Carrot Cake,dish
+Your Queue No. 5,not_dish
+Fish Curry,dish
+Business Lunch,not_dish
+All Prices in INR,not_dish
+Lamb Chops,dish
+Masala Poori,dish
+CLOSED,not_dish
+Online Exclusive,not_dish
+Margherita Pizza,dish
+Cream Mushroom Soup,dish
+Tomato Chutney,dish
+Shev Bhaji,dish
+Tuna Salad,dish
+Chilli Chicken,dish
+Veg Pesto Pizza,dish
+Discount,not_dish
+Phone Order,not_dish
+Buffalo Wings,dish
+Neer Dosa,dish
+Sambar Dosa,dish
+Crab Cakes,dish
+Mango Pudding,dish
+Counter Sale,not_dish
+Kadhai Mushroom,dish
+Goan Fish Curry,dish
+Veg Shepherd’s Pie,dish
+Bhatura,dish
+Egg Florentine,dish
+Use Sanitizer,not_dish
+Fruit Rabdi,dish
+No Outside Food,not_dish
+GST extra,not_dish
+Kadai Paneer,dish
+Brownie with Ice Cream,dish
+Best Seller,not_dish
+Miso Soup,dish
+Shammi Kebab,dish
+Patra,dish
+Veg Kurma,dish
+Papaya Salad,dish
+Apple Strudel,dish
+Ready for Pickup,not_dish
+Lunch Deal,not_dish
+Salsa Nachos,dish
+Lasooni Palak,dish
+Minimum Order,not_dish
+Egg Toast,dish
+COVER CHARGE,not_dish
+Add to cart,not_dish
+BBQ Ribs,dish
+Pathrode,dish
+No Service Charge,not_dish
+Eggplant Lasagna,dish
+Thai Green Curry,dish
+Shepherd’s Pie,dish
+Pindi Chole,dish
+Mix Veg,dish
+Seafood Paella,dish
+Schezwan Fried Rice,dish
+Music Night,not_dish
+Paneer Roll,dish
+Palak Chole,dish
+Bacon Sandwich,dish
+Pay Later,not_dish
+*,not_dish
+Value Meal,not_dish
+Meen Pollichathu,dish
+Kothimbir Vadi,dish
+Egg Fried Noodles,dish
+With Ice Cream,not_dish
+Menu Code,not_dish
+Sticky Toffee Pudding,dish
+No Parking,not_dish
+Main Course,not_dish
+Handi Paneer,dish
+Fried Rice,dish
+Not Applicable,not_dish
+Chicken Roll,dish
+Bulk Order,not_dish
+Prebook,not_dish
+Surti Undhiyu,dish
+Order #4782,not_dish
+Cash Only,not_dish
+Sourdough Bread,dish
+Only For Members,not_dish
+Egg Pakora,dish
+Mango Lassi,dish
+Greek Salad,dish
+--,not_dish
+From ₹99,not_dish
+N/A,not_dish
+Exclusive,not_dish
+Taste Guarantee,not_dish
+Rajma Chawal,dish
+Dhokla,dish
+Paneer Tikka,dish
+For Staff Only,not_dish
+Scan to Pay,not_dish
+Apple Pie,dish
+Jeera Rice,dish
+Motichoor Ladoo,dish
+Beverages,not_dish
+Veg Pizza,dish
+Chicken Chettinad,dish
+Bestseller,not_dish
+Veg,not_dish
+Fast Billing,not_dish
+Call 9999999999,not_dish
+No Dine-In,not_dish
+Soya Tikka,dish
+Hariyali Chicken,dish
+Corn Soup,dish
+Besan Ladoo,dish
+UPI,not_dish
+₹250,not_dish
+Premium,not_dish
+Dum Aloo,dish
+Korean Bibimbap,dish
+Keema Pav,dish
+Double Cheese Pizza,dish
+Happy Guests,not_dish
+Bill Before Order,not_dish
+Egg Bhurji,dish
+Mutton Rogan Josh,dish
+Book Now,not_dish
+Dinner Buffet,not_dish
+2 Pc,not_dish
+Kimchi Fried Rice,dish
+Besan Chilla,dish
+Hotel Paradise,not_dish
+Veggie Chili,dish
+Free Delivery,not_dish
+Mysore Masala Dosa,dish
+Today Only,not_dish
+House Special,not_dish
+Rasgulla,dish
+Silent Zone,not_dish
+Butter Naan,dish
+Next Counter,not_dish
+Breakfast Only,not_dish
+Table Booking,not_dish
+Veg Spring Roll,dish
+Veg Lasagna,dish
+Prawn Curry,dish
+Spinach & Cheese Crepe,dish
+Service Tax,not_dish
+Kalmi Kebab,dish
+Shorshe Ilish,dish
+Chicken Nuggets,dish
+Extra Spoons,not_dish
+Sarson da Saag,dish
+Butter Chicken,dish
+Salmon Teriyaki,dish
+Snack Time,not_dish
+Kitchen Closed,not_dish
+Chicken 65,dish
+Corn Palak,dish
+Namak Pare,dish
+Take Away,not_dish
+OPEN,not_dish
+Crispy Corn,dish
+New Launch,not_dish
+Litti Chokha,dish
+Onion Uttapam,dish
+Bread Omelette,dish
+To Share,not_dish
+Minimum Bill,not_dish
+Live Music,not_dish
+Cold Coffee,dish
+Veg Cheese Grilled,dish
+Veg Club Sandwich,dish
+Today's Special,not_dish
+Extra Toppings,not_dish
+Pineapple Raita,dish
+Limited Edition,not_dish
+100g,not_dish
+Entry Free,not_dish
+No MSG,not_dish
+Cheese Garlic Naan,dish
+Quiche Lorraine,dish
+Honey Mustard Chicken,dish
+Hot Selling,not_dish
+Family Room,not_dish
+Chicken Manchurian,dish
+Idli Sambar,dish
+Falooda,dish
+Patra Ni Machhi,dish
+Pre-Order,not_dish
+Pepper Chicken,dish
+Services,not_dish
+Paneer Tikka Roll,dish
+Brownie Sundae,dish
+Cauliflower Soup,dish
+Table Reserved,not_dish
+Pay Bill Here,not_dish
+Paneer Pizza,dish
+Sit Down,not_dish
+Meen Curry,dish
+Chicken Curry,dish
+Veg Thali,dish
+Fish Fry,dish
+Aloo Gobi,dish
+Premium Quality,not_dish
+No Home Delivery,not_dish
+Open 11am-11pm,not_dish
+Lemon Rice,dish
+Balcony,not_dish
+NonVeg Thali,dish
+Buffet Only,not_dish
+Gazpacho,dish
+Cash Counter,not_dish
+Dine-In Only,not_dish
+Boston Cream Pie,dish
+Rate Card,not_dish
+Chicken Lasagna,dish
+Masala Dosa,dish
+Reservation Desk,not_dish
+Live Counter,not_dish
+Paneer Pasanda,dish
+Chicken Tostada,dish
+Cold,not_dish
+Rava Kesari,dish
+Pineapple Pachadi,dish
+Afghani Chicken,dish
+Printed Bill,not_dish
+Chicken Fried Rice,dish
+Veg Manchow Soup,dish
+Spinach Corn Sandwich,dish
+Kaju Katli,dish
+Murgh Musallam,dish
+Pickup Only,not_dish
+Hygienic,not_dish
+Greek Yogurt Parfait,dish
+Vegetable Kulcha,dish
+French Omelette,dish
+Phirni,dish
+No Refund,not_dish
+Chana Sundal,dish
+Tiramisu,dish
+No Offers,not_dish
+Netbanking,not_dish
+Schezwan Rice,dish
+Baingan Bharta,dish
+Extra Cheese,not_dish
+Award Winning,not_dish
+Macher Jhol,dish
+Churma,dish
+Chef’s Pick,not_dish
+Chicken Handi,dish
+Gift Card,not_dish
+No Contact Delivery,not_dish
+Veg Patty,dish
+Pineapple Sheera,dish
+Pasta Carbonara,dish
+Veg Seekh Kebab,dish
+Sandesh,dish
+Veg Quesadilla,dish
+Chicken Biryani,dish
+Review Us,not_dish
+Digital Payment,not_dish
+Specials,not_dish
+Chicken Schnitzel,dish
+Ham & Cheese Sandwich,dish
+Please Wait,not_dish
+Chicken Tikka,dish
+Priority Queue,not_dish
+Veg Burger,dish
+Keema Samosa,dish
+Chicken Seekh Kebab,dish
+Gulab Jamun,dish
+Chicken Noodles,dish
+Bill Details,not_dish
+Lemon Drizzle Cake,dish
+Butter Garlic Crab,dish
+Bhindi Masala,dish
+Russian Salad,dish
+Veg Noodle Soup,dish
+Alleppy Fish Curry,dish
+Plum Cake,dish
+Last Order 9:45pm,not_dish
+Pesarattu Upma,dish
+Mutton Do Pyaza,dish
+Dabeli,dish
+Prepaid Only,not_dish
+Combo Meal,not_dish
+Limited Offer,not_dish
+Papdi Chaat,dish
+Baked Macaroni,dish
+Chicken Bharta,dish
+App Only,not_dish
+Paneer Chili,dish
+Bread Pakora,dish
+Lamb Tagine,dish
+Dal Khichdi,dish
+Pesto Pasta,dish
+Kathi Roll,dish
+Mishti Doi,dish
+Full Plate,not_dish
+Outlet Code,not_dish
+Chicken Alfredo Pasta,dish
+Paneer Pakora,dish
+Egg Fried Rice,dish
+Stuffed Paratha,dish
+Fish and Chips,dish
+Peking Duck,dish
+Tax Not Included,not_dish
+Open Now,not_dish
+No Pets,not_dish
+Veggie Omelette,dish
+Shahi Tukda,dish
+Grilled Fish,dish
+Veg Starters,dish
+Starters,not_dish
+Table Service,not_dish
+Veg Kofta,dish
+Air Conditioned,not_dish
+Red Dot,not_dish
+Customer Care,not_dish
+Garlic Naan,dish
+Tomato Soup,dish
+Sold Out,not_dish
+Table 3,not_dish
+Tandoori Broccoli,dish
+Jalebi,dish
+Review Here,not_dish
+Bhutte Ka Kees,dish
+AC Hall,not_dish
+Haleem,dish
+Fried Pork Dumpling,dish
+Membership Offer,not_dish
+Packed Fresh,not_dish
+Special Event,not_dish
+Jackfruit Biryani,dish
+Kung Pao Chicken,dish
+Medu Vada,dish
+Pad Thai,dish
+Black Bean Burger,dish
+Schezwan Noodles,dish
+Chicken Wings,dish
+Blueberry Muffin,dish
+Contactless,not_dish
+Moong Dal Payasam,dish
+Sabudana Vada,dish
+Dinner Deal,not_dish
+Tandoori Chicken,dish
+Paneer Makhani,dish
+Buffet Timings,not_dish
+Rate Us,not_dish
+Combo 2,not_dish
+Ratatouille,dish
+Chocolate Mousse,dish
+Vegetable Manchurian,dish
+No Smoking,not_dish
+Egg Bhurji Pav,dish
+Andhra Chicken,dish
+Caesar Salad,dish
+Fresh,not_dish
+Caprese Salad,dish
+Burrito Bowl,dish
+No Returns,not_dish
+Gobi Manchurian,dish
+Complete Payment,not_dish
+Veg Hakka Noodles,dish
+Beef Burger,dish
+Mochar Ghonto,dish
+Check-In,not_dish
+Prawn Tempura,dish
+Swipe Only,not_dish
+Chicken Nachos,dish
+Half Plate,not_dish
+Paneer Kurkure,dish
+Paytm Accepted,not_dish
+Reshmi Kebab,dish
+Banquet,not_dish
+Methi Paratha,dish
+Macaroni Salad,dish
+Gnocchi,dish
+Bathinda Branch,not_dish
+Meatball Sub,dish
+Valet Available,not_dish
+Rava Fish Fry,dish
+Dahi Bhalla,dish
+Page 4,not_dish
+No Split Bill,not_dish
+Chicken Masala,dish
+Chicken Stroganoff,dish
+Non Veg,not_dish
+Dal Fry,dish
+Status: Delivered,not_dish
+Choco Lava Cake,dish
+Customer Only,not_dish
+Egg Paratha,dish
+Palak Paneer,dish
+2nd Floor,not_dish
+Chicken Kolhapuri,dish
+Beetroot Poriyal,dish
+Fried Chicken Sandwich,dish
+Nimbu Pani,dish
+Coupon Applied,not_dish
+Moong Dal Chilla,dish
+Chicken Quesadilla,dish
+On the House,not_dish
+Express Delivery,not_dish
+Moong Dal Halwa,dish
+Tempura Prawn,dish
+Advance Booking,not_dish
+1 Pc,not_dish
+Chef Special,not_dish
+Fish Curry Kerala,dish
+A12,not_dish
+Pick Up,not_dish
+***,not_dish
+Murgh Malai,dish
+Cold Drinks,not_dish
+Navratan Korma,dish
+Bar Open,not_dish
+Chana Dal Tadka,dish
+Salmon Sushi,dish
+Bombay Sandwich,dish
+Chiller Broken,not_dish
+First Floor,not_dish
+Coconut Rice,dish
+Grilled Vegetable Skewers,dish
+Contact Us,not_dish
+Veg Hakka Chowmein,dish
+Bacon Quiche,dish
+Shrimp Fried Rice,dish
+Extra Portion,not_dish
+Cheese Pizza,dish
+Manager,not_dish
+Broccoli Soup,dish
+Lunch Time,not_dish
+Ready by 7pm,not_dish
+Potato Smiles,dish
+OTP Required,not_dish
+Cheese Burst Pizza,dish
+Egg Keema,dish
+Aloo Tikki,dish
+Khoya Peda,dish
+Mocktail,not_dish
+E-Bill,not_dish
+Koraishutir Kochuri,dish
+Walk In,not_dish
+Green Thai Curry,dish
+Eggplant Parmesan,dish
+Tandoori Pomfret,dish
+Kadai Chicken,dish
+Special Price,not_dish
+Dalma,dish
+5%,not_dish
+Chicken Momos,dish
+Seasonal,not_dish
+GST 5%,not_dish
+Rava Idli,dish
+Egg Curry Sandwich,dish
+Khichdi,dish
+Chef Choice,not_dish
+Delivery Timing,not_dish
+7 Days Open,not_dish
+Waiting Area,not_dish
+fssai,not_dish
+Methi Malai Murg,dish
+Rava Dosa,dish
+Egg Roll,dish
+Chicken Pasta,dish
+QR Menu,not_dish
+Bisi Bele Bath,dish
+Out of Stock,not_dish
+Prawn Fried Rice,dish
+Soya Chaap,dish
+Egg Drop Soup,dish
+Not For Sale,not_dish
+Dinner,not_dish
+Apricot Danish,dish
+Chef Name,not_dish
+Per KG,not_dish
+Green Dot,not_dish

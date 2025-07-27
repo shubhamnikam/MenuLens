@@ -3,5 +3,6 @@ scikit-learn
 pillow
 pytesseract
 requests
-google-search-results
 python-dotenv
+google-search-results
+duckduckgo-search

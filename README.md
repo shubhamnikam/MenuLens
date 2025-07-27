@@ -40,9 +40,7 @@
 
     - for linux (Ubuntu / Debian)
     sudo apt update
-    sudo apt install tesseract-ocr
-    sudo apt install tesseract-ocr-mar tesseract-ocr-hin
-
+    sudo apt install tesseract-ocr tesseract-ocr-mar tesseract-ocr-hin
     tesseract -v
 
 6. create env var
