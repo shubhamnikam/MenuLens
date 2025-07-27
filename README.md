@@ -48,5 +48,7 @@
 ### improvements:
 - add backup way for rate limiter
 - improve UI
+- improve model tranning & classifier
+- add models to github
 
 
