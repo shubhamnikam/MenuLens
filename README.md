@@ -1,23 +1,16 @@
 # MenuLens
+### site link:
+- https://menu-lens.streamlit.app/
 
-## Phase 1
-1. Click or Upload from file
-2. OCR to extract text
-3. Menu Images for extracted text
-4. Deploy - add docker support & deploy 
-
-## Phase 2
-1. Add Url sharing to see menu
-    1. Move logic to Backend & NoSQL DB
-    2. Use Firestore DB
-2. Change deployment
-
-## Phase 3
-1. Add User Auth
-2. History
-
-
-# create project - py
+### tech used:
+- python
+- streamlit: for ui
+- tesseract, tesseract-ocr: for ocr
+- classifer model: trained model on labeled data & exported as .pkl
+- image api: serpi, duckduck-go
+- deployment: streamlit
+  
+### project setup:
 1. create project
     mkdir menu-lens-py
     cd menu-lens-py
@@ -27,30 +20,33 @@
 
 3. activate it
     - for windows
-        .venv\Scripts\activate
+        - .venv\Scripts\activate
     - for mac/linux
-        source .venv/bin/activate 
+        - source .venv/bin/activate 
 
 4. install
-- create requirements.txt & add libs
-    pip install -r requirements.txt
+    - create requirements.txt & add libs
+        - pip install -r requirements.txt
 
 5. install tessaract
     - for windows install from github repo
 
     - for linux (Ubuntu / Debian)
-    sudo apt update
-    sudo apt install tesseract-ocr tesseract-ocr-mar tesseract-ocr-hin
-    tesseract -v
+        - sudo apt update
+        - sudo apt install tesseract-ocr tesseract-ocr-mar tesseract-ocr-hin
+        - tesseract -v
 
 6. create env var
     - copy .env_template
     - remove _template
     - replace your keys
 
-7. create app
-    - get file
-    - extract text
-    - pass it to model for classification
-    - get images
+7. run app
+    - streamlit run main.py
+  
+
+### improvements:
+- add backup way for rate limiter
+- improve UI
+
 
