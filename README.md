@@ -18,36 +18,41 @@
 
 
 # create project - py
-```cmd
-## create project
-mkdir menu-lens-py
-cd menu-lens-py
+1. create project
+    mkdir menu-lens-py
+    cd menu-lens-py
 
-# create env
-python -m venv .venv
+2. create env
+    python -m venv .venv
 
-# for windows
-.venv\Scripts\activate
+3. activate it
+    - for windows
+        .venv\Scripts\activate
+    - for mac/linux
+        source .venv/bin/activate 
 
-# for mac/linux
-source .venv/bin/activate 
+4. install
+- create requirements.txt & add libs
+    pip install -r requirements.txt
 
-# install
-create requirements.txt & add libs
-pip install -r requirements.txt
+5. install tessaract
+    - for windows install from github repo
 
-# install tessaract
-- for windows install from github repo
+    - for linux (Ubuntu / Debian)
+    sudo apt update
+    sudo apt install tesseract-ocr
+    sudo apt install tesseract-ocr-mar tesseract-ocr-hin
 
-- for linux (Ubuntu / Debian)
-sudo apt update
-sudo apt install tesseract-ocr
-sudo apt install tesseract-ocr-mar tesseract-ocr-hin
+    tesseract -v
 
-# create app
-- get file
-- extract text
-- pass it to model for classification
-- get images
-```
+6. create env var
+    - copy .env_template
+    - remove _template
+    - replace your keys
+
+7. create app
+    - get file
+    - extract text
+    - pass it to model for classification
+    - get images
 
