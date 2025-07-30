@@ -13,7 +13,7 @@
 ### project setup:
 1. create project
    - mkdir menu-lens-py
-  - cd menu-lens-py
+   - cd menu-lens-py
 
 2. create env
    - python -m venv .venv
