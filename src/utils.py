@@ -7,7 +7,7 @@ import os
 from duckduckgo_search import DDGS
 import time
 
-with open("./src/models/v1/dish_classifier.pkl", "rb") as f:
+with open("./src/models/v2/dish_classifier.pkl", "rb") as f:
     model = pickle.load(f)
 
 
@@ -25,7 +25,7 @@ def is_dish(text: str) -> bool:
 
 def get_image_url(query: str) -> str:
     # explicit sleep
-    time.sleep(1)
+    time.sleep(3)
     if False:
         return setup_serp_api(query)
     elif True:
