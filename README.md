@@ -12,11 +12,11 @@
   
 ### project setup:
 1. create project
-    mkdir menu-lens-py
-    cd menu-lens-py
+   - mkdir menu-lens-py
+  - cd menu-lens-py
 
 2. create env
-    python -m venv .venv
+   - python -m venv .venv
 
 3. activate it
     - for windows
