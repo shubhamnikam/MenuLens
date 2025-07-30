@@ -1,1 +1,9 @@
 tesseract-ocr
+
+tesseract-ocr-eng      # English
+tesseract-ocr-spa      # Spanish
+
+tesseract-ocr-hin      # Hindi
+tesseract-ocr-mar      # Marathi
+tesseract-ocr-tam      # Tamil
+tesseract-ocr-tel      # Telugu
