@@ -2,8 +2,7 @@
 ### site link:
 - https://menu-lens.streamlit.app/
 <p align="center">
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/d6ac62d2-da90-4060-875c-dd24b1eb7298" />  
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/f6085965-b422-47aa-9fe8-14055e394d07" />
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/d6ac62d2-da90-4060-875c-dd24b1eb7298" />  
 </p>
 
 ### tech used:
