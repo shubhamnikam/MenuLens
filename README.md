@@ -15,25 +15,20 @@
 - deployment: streamlit
   
 ### project setup:
-1. create project
-   - mkdir menu-lens-py
-   - cd menu-lens-py
-
-2. create env
+1. clone repo & create env
    - python -m venv .venv
 
-3. activate it
+2. activate it
     - for windows
         - .venv\Scripts\activate
     - for mac/linux
         - source .venv/bin/activate 
 
-4. install
-    - create requirements.txt & add libs
-        - pip install -r requirements.txt
+4. install libs
+    - pip install -r requirements.txt
 
 5. install tessaract
-    - for windows install from github repo
+    - for windows install from github repo with lang. pack
 
     - for linux (Ubuntu / Debian)
         - sudo apt update
@@ -50,7 +45,7 @@
   
 
 ### improvements:
-- add backup way for rate limiter
+- add fallback way for rate limiter
 - improve UI
 - improve model tranning & classifier
 - add models to github
